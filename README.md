@@ -481,4 +481,4 @@ this is the end of the course, i hope you enjoyed it and learned something new, 
 
 thank you for your time and have a nice day
 
-this course was made by: `yaj-13` gor IEEE Taibah University Student Branch
+this course was made by: `yaj-13` for IEEE Taibah University Student Branch
