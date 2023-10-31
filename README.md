@@ -346,13 +346,12 @@ public class Menu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
     int choice;
-
     do {
-        System.out.println("Choose a number:");
-        System.out.println("1. to Print 'Hello World'");
-        System.out.println("2. to Print 'IEEE'");
-        System.out.println("3. Exit");
-        System.out.print("Enter your choice: ");
+       System.out.print("Choose a number:\n
+        1. to Print 'Hello World' \n 
+       2. to Print 'IEEE' 
+       \n 3. Exit 
+       \n Enter your choice:");
         choice = scanner.nextInt();
 
         switch (choice) {
@@ -455,7 +454,6 @@ public class Factorial {
 ##### array 1
 
 ```java
-import java.util.Random;
 
 public class ArraySum {
     public static void main(String[] args) {
